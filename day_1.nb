@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[   3246168,      53655]
-NotebookOptionsPosition[   3237106,      53493]
-NotebookOutlinePosition[   3237446,      53508]
-CellTagsIndexPosition[   3237403,      53505]
+NotebookDataLength[   3251669,      53789]
+NotebookOptionsPosition[   3241428,      53605]
+NotebookOutlinePosition[   3241767,      53620]
+CellTagsIndexPosition[   3241724,      53617]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -53489,10 +53489,122 @@ Cell["Picky exercises: 2, 5, 7, 9, +4", "Item",
    3.721602672073344*^9}},ExpressionUUID->"0ac96998-5240-4e3c-87ea-\
 ab70d3d1ee8e"]
 }, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["6 Making Tables", "Section",
+ CellChangeTimes->{{3.7216021431633253`*^9, 
+  3.7216021456080627`*^9}},ExpressionUUID->"c3cea8d8-858f-47b2-a073-\
+4ba641f6da8d"],
+
+Cell[CellGroupData[{
+
+Cell[TextData[ButtonBox["6 Making Tables",
+ BaseStyle->"Hyperlink",
+ ButtonData->{
+   URL["https://www.wolfram.com/language/elementary-introduction/2nd-ed/06-\
+making-tables.html"], None},
+ ButtonNote->
+  "https://www.wolfram.com/language/elementary-introduction/2nd-ed/06-making-\
+tables.html"]], "Item",
+ CellChangeTimes->{{3.720313145066904*^9, 3.720313177440453*^9}, {
+  3.720314125074608*^9, 
+  3.720314125075992*^9}},ExpressionUUID->"d07c9c9b-5088-4cbd-b2c0-\
+25ecbfc5b4bc"],
+
+Cell["Picky exercises: +6", "Item",
+ CellChangeTimes->{{3.721078549535367*^9, 3.7210785532906113`*^9}, 
+   3.721079208711927*^9, {3.7210795889619513`*^9, 3.721079589203311*^9}, {
+   3.721082290420175*^9, 3.721082291214073*^9}, {3.721082884205518*^9, 
+   3.7210828846433697`*^9}, {3.721085130083638*^9, 3.72108513060845*^9}, {
+   3.721123751544235*^9, 3.721123751896521*^9}, {3.721602174606112*^9, 
+   3.7216021771039343`*^9}, {3.721605505437319*^9, 
+   3.7216055060679913`*^9}},ExpressionUUID->"74e3adfa-8546-46f6-85a5-\
+9e7683a8f310"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["7 Color and Styles *", "Section",
+ CellChangeTimes->{{3.7216022067173033`*^9, 
+  3.721602215364644*^9}},ExpressionUUID->"8a468fc8-537f-4e00-9293-\
+dd9b93e9ae87"],
+
+Cell[CellGroupData[{
+
+Cell[TextData[ButtonBox["7 Colors and Styles",
+ BaseStyle->"Hyperlink",
+ ButtonData->{
+   URL["https://www.wolfram.com/language/elementary-introduction/2nd-ed/07-\
+colors-and-styles.html"], None},
+ ButtonNote->
+  "https://www.wolfram.com/language/elementary-introduction/2nd-ed/07-colors-\
+and-styles.html"]], "Item",
+ CellChangeTimes->{{3.720313145066904*^9, 3.720313181022992*^9}, {
+  3.7203141352365103`*^9, 3.72031413523702*^9}, {3.7204091166130867`*^9, 
+  3.720409116821233*^9}, {3.721602216749168*^9, 
+  3.721602216884995*^9}},ExpressionUUID->"a225c309-2260-4599-8452-\
+7efc8460c449"],
+
+Cell[TextData[ButtonBox["HTML Color Names",
+ BaseStyle->"Hyperlink",
+ ButtonData->{
+   URL["https://www.w3schools.com/colors/colors_names.asp"], None},
+ ButtonNote->"https://www.w3schools.com/colors/colors_names.asp"]], "Item",
+ CellChangeTimes->{{3.7240090562976093`*^9, 
+  3.7240090629691057`*^9}},ExpressionUUID->"9ea1eb80-0b3a-447b-a444-\
+1dcd3af31593"],
+
+Cell["Picky exercises:", "Item",
+ CellChangeTimes->{{3.721078549535367*^9, 3.7210785532906113`*^9}, 
+   3.721079208711927*^9, {3.7210795889619513`*^9, 3.721079589203311*^9}, {
+   3.721082290420175*^9, 3.721082291214073*^9}, {3.721082884205518*^9, 
+   3.7210828846433697`*^9}, {3.721085130083638*^9, 3.72108513060845*^9}, {
+   3.721123751544235*^9, 3.721123751896521*^9}, 
+   3.721602184121546*^9},ExpressionUUID->"444bb8f2-74e6-4de8-b2cb-\
+d4cbe2367916"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["8 Basic Graphics Objects *", "Section",
+ CellChangeTimes->{{3.721602281512004*^9, 
+  3.721602285730691*^9}},ExpressionUUID->"32cec9a0-6f98-417f-8d47-\
+c188438f9c1e"],
+
+Cell[CellGroupData[{
+
+Cell[TextData[ButtonBox["8 Basic Graphics Objects",
+ BaseStyle->"Hyperlink",
+ ButtonData->{
+   URL["https://www.wolfram.com/language/elementary-introduction/2nd-ed/08-\
+basic-graphics-objects.html"], None},
+ ButtonNote->
+  "https://www.wolfram.com/language/elementary-introduction/2nd-ed/08-basic-\
+graphics-objects.html"]], "Item",
+ CellChangeTimes->{{3.720313145066904*^9, 3.720313184040331*^9}, {
+  3.7203141414237137`*^9, 3.7203141414242277`*^9}, {3.720409119214486*^9, 
+  3.7204091196027603`*^9}, {3.721602287275329*^9, 
+  3.7216022880244293`*^9}},ExpressionUUID->"74753a95-d90c-402f-9c53-\
+c7ff156610f2"],
+
+Cell["Picky exercises: 7, +3", "Item",
+ CellChangeTimes->{{3.721078549535367*^9, 3.7210785532906113`*^9}, 
+   3.721079208711927*^9, {3.7210795889619513`*^9, 3.721079589203311*^9}, {
+   3.721082290420175*^9, 3.721082291214073*^9}, {3.721082884205518*^9, 
+   3.7210828846433697`*^9}, {3.721085130083638*^9, 3.72108513060845*^9}, {
+   3.721123751544235*^9, 3.721123751896521*^9}, 3.7216021862415648`*^9, {
+   3.721608266700356*^9, 3.7216082671463223`*^9}, {3.721608298177277*^9, 
+   3.721608299352054*^9}},ExpressionUUID->"750a0232-1b63-407a-8670-\
+785e259df69c"]
+}, Open  ]]
 }, Open  ]]
 },
 WindowSize->{917, 848},
-WindowMargins->{{147, Automatic}, {Automatic, 62}},
+WindowMargins->{{50, Automatic}, {Automatic, 45}},
 FrontEndVersion->"11.2 for Linux x86 (64-bit) (September 10, 2017)",
 StyleDefinitions->"Default.nb"
 ]
@@ -53655,6 +53767,28 @@ Cell[CellGroupData[{
 Cell[3235455, 53455, 498, 11, 32, "Item",ExpressionUUID->"ac258984-410e-482d-b498-240ccfcd8ec7"],
 Cell[3235956, 53468, 375, 8, 32, "Item",ExpressionUUID->"8fd3bd21-98a0-437b-bbdc-2ee5b4269dab"],
 Cell[3236334, 53478, 744, 11, 32, "Item",ExpressionUUID->"0ac96998-5240-4e3c-87ea-ab70d3d1ee8e"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3237127, 53495, 164, 3, 68, "Section",ExpressionUUID->"c3cea8d8-858f-47b2-a073-4ba641f6da8d"],
+Cell[CellGroupData[{
+Cell[3237316, 53502, 480, 11, 32, "Item",ExpressionUUID->"d07c9c9b-5088-4cbd-b2c0-25ecbfc5b4bc"],
+Cell[3237799, 53515, 535, 8, 32, "Item",ExpressionUUID->"74e3adfa-8546-46f6-85a5-9e7683a8f310"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3238383, 53529, 167, 3, 68, "Section",ExpressionUUID->"8a468fc8-537f-4e00-9293-dd9b93e9ae87"],
+Cell[CellGroupData[{
+Cell[3238575, 53536, 590, 12, 32, "Item",ExpressionUUID->"a225c309-2260-4599-8452-7efc8460c449"],
+Cell[3239168, 53550, 357, 7, 32, "Item",ExpressionUUID->"9ea1eb80-0b3a-447b-a444-1dcd3af31593"],
+Cell[3239528, 53559, 454, 7, 32, "Item",ExpressionUUID->"444bb8f2-74e6-4de8-b2cb-d4cbe2367916"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3240031, 53572, 171, 3, 68, "Section",ExpressionUUID->"32cec9a0-6f98-417f-8d47-c188438f9c1e"],
+Cell[CellGroupData[{
+Cell[3240227, 53579, 610, 12, 32, "Item",ExpressionUUID->"74753a95-d90c-402f-9c53-c7ff156610f2"],
+Cell[3240840, 53593, 560, 8, 32, "Item",ExpressionUUID->"750a0232-1b63-407a-8670-785e259df69c"]
 }, Open  ]]
 }, Open  ]]
 }
