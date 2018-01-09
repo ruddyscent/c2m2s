@@ -18,7 +18,8 @@ This course cover Wolfram language and symbolic calculation using Mathematica wi
 ## Course Outline
 1. [Day 1: Thu, Jan 4, 2018](day_01.nb)
     * Course introduction and EIWL 1-8
-1. Day 2: Tue, Jan 9, 2018
+1. [Day 2: Tue, Jan 9, 2018](day_02.nb)
+    * EIWL 9-17
 1. Day 3: Thu, Jan 11, 2018
 1. Day 4: Tue, Jan 16, 2018
 1. Day 5: Thu, Jan 18, 2018
