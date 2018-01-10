@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[   3251669,      53789]
+NotebookDataLength[   3251670,      53789]
 NotebookOptionsPosition[   3241428,      53605]
-NotebookOutlinePosition[   3241767,      53620]
-CellTagsIndexPosition[   3241724,      53617]
+NotebookOutlinePosition[   3241768,      53620]
+CellTagsIndexPosition[   3241725,      53617]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -53604,7 +53604,7 @@ Cell["Picky exercises: 7, +3", "Item",
 }, Open  ]]
 },
 WindowSize->{917, 848},
-WindowMargins->{{50, Automatic}, {Automatic, 45}},
+WindowMargins->{{Automatic, 438}, {Automatic, 89}},
 FrontEndVersion->"11.2 for Linux x86 (64-bit) (September 10, 2017)",
 StyleDefinitions->"Default.nb"
 ]
