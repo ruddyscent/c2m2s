@@ -28,11 +28,14 @@ This course cover Wolfram language and symbolic calculation using Mathematica wi
     * EIWL 29-38
 1. [Day 6: Tue, Jan 23, 2018](day_06.nb)
     * EIWL 39-47
-1. Day 7: Thu, Jan 25, 2018
-1. Day 8: Tue, Jan 30, 2018
-1. Day 9: Thu, Feb 1, 2018
-1. Day 10: Tue, Feb 6, 2018
-1. Day 11: Thu, Feb 8, 2018
-1. Day 12: Tue, Feb 13, 2018
-1. Day 13: The, Feb 20, 2018
-1. Day 14: Thu, Feb 22, 2018
+1. [Day 7: Thu, Jan 25, 2018](day_07.nb)
+    * EC chapter 1
+1. [Day 8: Tue, Jan 30, 2018](day_08.nb)
+    * EC chapter 2
+1. [Day 9: Wed, Jan 31, 2018](day_09.nb)
+    * EC chapter 3
+1. Day 10: Thu, Feb 1, 2018
+1. Day 11: Tue, Feb 6, 2018
+1. Day 12: Thu, Feb 8, 2018
+1. Day 13: Tue, Feb 13, 2018
+1. Day 14: The, Feb 20, 2018
