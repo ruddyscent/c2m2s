@@ -4,7 +4,7 @@
 * This document is a draft. Please, check the new version frequently.
 
 ## Course Description
-This course cover Wolfram language and symbolic calculation using Mathematica with MathSymbolica. During the first half of the course, you will learn basics of Wolfram language. Second half of the course will handle calculus, analysis, and linear algebra using Mathematica with MathSymbolica.
+This course covers Wolfram language and symbolic calculation using Mathematica with MathSymbolica. During the first half of the course, you will learn the basics of the Wolfram Language. The second half of the course will handle calculus, analysis, and linear algebra using Mathematica with MathSymbolica.
 
 ## Prerequisites
 * You will need a WiFi-enabed notebook with Mathematica and MathSymbolica installation. For the liscence of these softwares, please contact Prof. Hwang, Chi-Ok.
